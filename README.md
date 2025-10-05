@@ -2,7 +2,7 @@
 
  ## Project Overview
 
-- This project analyzes credit card fraud risk using a Kaggle dataset. The dashboard was built in Power BI to explore fraudulent transaction patterns, risk levels, and trends across states, months, and transaction categories.
+This project analyzes credit card fraud risk using a Kaggle dataset. The dashboard was built in Power BI to explore fraudulent transaction patterns, risk levels, and trends across states, months, and transaction categories.
 
 Data cleaning and transformation were performed using Power Query, and fraud-related KPIs were calculated with DAX. The goal is to support early detection of fraud and help organizations reduce financial risk.
 
