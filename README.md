@@ -30,6 +30,7 @@ Data cleaning and transformation were performed using Power Query, and fraud-rel
 - **Dataset**: Kaggle – Credit Card Fraud Dataset.
 
 ## Dataset 
+<a href = "https://github.com/guptaanushka2306-lgtm/Credit_Card_Fraud_Risk_Analysis-/blob/main/Credit%20Card%20Fraud%20Risk%20Analysis.csv" >View Dashboard</a>
 
 
 ## Key Insights
@@ -67,6 +68,7 @@ Data cleaning and transformation were performed using Power Query, and fraud-rel
 - Supports data-driven decision making for financial institutions.
 
 ## Dashboard Preview
+<img width="1322" height="742" alt="tmp_bd70f10a-9385-4865-ba32-a081986e64b5" src="https://github.com/user-attachments/assets/7455e56f-f925-4e96-9d23-2eeff06cd193" />
 
 
 ## Final Conclusion
